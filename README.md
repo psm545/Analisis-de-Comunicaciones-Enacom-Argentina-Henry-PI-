@@ -1,3 +1,6 @@
+![IMAGEN PORTADA](https://github.com/psm545/Analisis-de-Comunicaciones-Enacom-Argentina-Henry-PI-/blob/main/IMG/Designer-18.jpeg)
+
+
 # Análisis del Sector de Telecomunicaciones en Argentina
 
 ## Introducción
