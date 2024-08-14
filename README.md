@@ -41,6 +41,25 @@ Para llevar a cabo este análisis, se siguió una metodología estructurada en t
 - **Herramientas Utilizadas:** Python (Pandas, Matplotlib, Seaborn, NumPy)
 - **Descripción:** Se analizaron y visualizaron los datos para identificar tendencias, patrones y posibles problemas como valores faltantes, outliers y duplicados. Este análisis fue clave para preparar los datos para el siguiente paso.
 
+
+
+1. **Evolución Anual y Trimestral de Accesos a Internet por Tecnología:**
+    Fibra óptica: muestra un crecimiento constante y significativo tanto en el análisis anual como trimestral, lo que indica una creciente preferencia por esta tecnología debido a su mayor velocidad y fiabilidad.
+    Cablemodem: también ha visto un aumento, pero no tan pronunciado como la fibra óptica, lo que podría reflejar una transición gradual de los consumidores hacia opciones de mayor velocidad.
+    ADSL: ha disminuido consistentemente a lo largo de los años, reflejando probablemente la obsolescencia de la tecnología frente a alternativas más rápidas.
+    Wireless y Otros: aunque menos significativas que la fibra óptica y el cablemodem, estas tecnologías mantienen una presencia estable en el mercado.
+
+2. **Correlación entre Tecnologías:**
+    Las tecnologías más modernas (Fibra óptica y Cablemodem) muestran una correlación negativa con tecnologías más antiguas como el ADSL, lo que sugiere que el crecimiento de las nuevas tecnologías está reemplazando a las antiguas en lugar de coexistir con ellas.
+
+3. **Composición del Mercado de Accesos a Internet por Tecnología:**
+    La gráfica de áreas apiladas demuestra cómo la composición del mercado ha cambiado dramáticamente en favor de la fibra óptica en los últimos años, mientras que la participación de tecnologías como ADSL ha disminuido proporcionalmente.
+
+4. **Crecimiento Total por Tecnología:**
+    Este gráfico refleja claramente los "ganadores" y "perdedores" en términos de crecimiento de accesos totales, con la fibra óptica y cablemodem experimentando un aumento neto significativo, mientras que ADSL muestra una disminución neta.
+
+5. **Implicaciones Estratégicas:**
+    Estas tendencias destacan la importancia de invertir en tecnologías de acceso a internet de alta velocidad como la fibra óptica para satisfacer la demanda creciente de los consumidores. También subrayan la necesidad de considerar el retiro gradual de tecnologías más antiguas como el ADSL, que están perdiendo rápidamente su relevancia en el mercado.
 ### 2. Transformación y Extracción de Datos (ETL)
 
 [Creacion Base de Datos SQL](https://github.com/psm545/Analisis-de-Comunicaciones-Enacom-Argentina-Henry-PI-/blob/main/Creacion%20Base%20de%20Datos%20Enacom%20Comunicaciones.sql)
