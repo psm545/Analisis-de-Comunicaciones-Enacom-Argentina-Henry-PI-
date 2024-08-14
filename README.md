@@ -35,10 +35,16 @@ Para llevar a cabo este análisis, se siguió una metodología estructurada en t
 ## Desarrollo del Proyecto
 
 ### 1. Análisis Exploratorio de Datos (EDA)
+
+[Analisis EDA Jupiter Notebook](https://github.com/psm545/Analisis-de-Comunicaciones-Enacom-Argentina-Henry-PI-/blob/main/Analisis%20Exploratorio%20de%20Datos%20EDA.ipynb)
+
 - **Herramientas Utilizadas:** Python (Pandas, Matplotlib, Seaborn, NumPy)
 - **Descripción:** Se analizaron y visualizaron los datos para identificar tendencias, patrones y posibles problemas como valores faltantes, outliers y duplicados. Este análisis fue clave para preparar los datos para el siguiente paso.
 
 ### 2. Transformación y Extracción de Datos (ETL)
+
+[Creacion Base de Datos SQL](https://github.com/psm545/Analisis-de-Comunicaciones-Enacom-Argentina-Henry-PI-/blob/main/Creacion%20Base%20de%20Datos%20Enacom%20Comunicaciones.sql)
+
 - **Herramientas Utilizadas:** SQL, Google Cloud, Power Query
 - **Descripción:** Los datos se limpiaron, transformaron y almacenaron en una base de datos en Google Cloud, accesible desde Power BI. Este paso aseguró que los datos estuvieran en un formato óptimo para el análisis y visualización.
 
