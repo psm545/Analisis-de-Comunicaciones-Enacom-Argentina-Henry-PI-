@@ -41,6 +41,11 @@ Para llevar a cabo este análisis, se siguió una metodología estructurada en t
 - **Herramientas Utilizadas:** Python (Pandas, Matplotlib, Seaborn, NumPy)
 - **Descripción:** Se analizaron y visualizaron los datos para identificar tendencias, patrones y posibles problemas como valores faltantes, outliers y duplicados. Este análisis fue clave para preparar los datos para el siguiente paso.
 
+**Adelanto del EDA**
+
+
+![IMAGEN EDA](https://github.com/psm545/Analisis-de-Comunicaciones-Enacom-Argentina-Henry-PI-/blob/main/IMG/44.png)
+
 
 
 1. **Evolución Anual y Trimestral de Accesos a Internet por Tecnología:**
@@ -60,6 +65,7 @@ Para llevar a cabo este análisis, se siguió una metodología estructurada en t
 
 5. **Implicaciones Estratégicas:**
     Estas tendencias destacan la importancia de invertir en tecnologías de acceso a internet de alta velocidad como la fibra óptica para satisfacer la demanda creciente de los consumidores. También subrayan la necesidad de considerar el retiro gradual de tecnologías más antiguas como el ADSL, que están perdiendo rápidamente su relevancia en el mercado.
+   
 ### 2. Transformación y Extracción de Datos (ETL)
 
 [Creacion Base de Datos SQL](https://github.com/psm545/Analisis-de-Comunicaciones-Enacom-Argentina-Henry-PI-/blob/main/Creacion%20Base%20de%20Datos%20Enacom%20Comunicaciones.sql)
