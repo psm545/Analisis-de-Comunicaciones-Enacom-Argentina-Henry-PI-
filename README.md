@@ -3,6 +3,12 @@
 
 # Análisis del Sector de Telecomunicaciones en Argentina
 
+
+### Ver presentacion Power BI
+
+[Dashboard de Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTE0YTk3NjItMjJmMC00ZGM1LTlmMmYtYzgzMmYyMWFmZTVjIiwidCI6Ijc5ODcxZWIxLTYwOTYtNDJiZi05OGVmLWI0ZjNlNGVmODMxOCIsImMiOjR9)
+
+
 ## Introducción
 
 En la era moderna, las telecomunicaciones han transformado la manera en que las personas, organizaciones y dispositivos se conectan, facilitando la transmisión de información a través de medios electrónicos como la telefonía, televisión, radio e internet. En Argentina, este sector ha experimentado un crecimiento notable, con 62.12 millones de conexiones registradas en 2020, posicionando al país a la vanguardia en el desarrollo de las telecomunicaciones.
@@ -37,6 +43,8 @@ Para llevar a cabo este análisis, se siguió una metodología estructurada en t
 - **Descripción:** Los datos se limpiaron, transformaron y almacenaron en una base de datos en Google Cloud, accesible desde Power BI. Este paso aseguró que los datos estuvieran en un formato óptimo para el análisis y visualización.
 
 ### 3. Desarrollo del Dashboard en Power BI
+[Dashboard de Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTE0YTk3NjItMjJmMC00ZGM1LTlmMmYtYzgzMmYyMWFmZTVjIiwidCI6Ijc5ODcxZWIxLTYwOTYtNDJiZi05OGVmLWI0ZjNlNGVmODMxOCIsImMiOjR9)
+
 - **Herramientas Utilizadas:** Power BI
 - **Descripción:** Se creó un dashboard interactivo y funcional que permite a los usuarios explorar los datos con facilidad. Se incluyeron filtros, gráficos y visualizaciones que facilitan la interpretación de la información y el análisis de los KPIs propuestos.
 
